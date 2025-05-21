@@ -6,7 +6,9 @@ body {
   margin: 20px auto;
 }
 h1 {
-  color: #37ff37;
+  color: black;
+  background-color: #e2eefb;
+  text-align: center;
 }
 a {
   text-decoration: none;
